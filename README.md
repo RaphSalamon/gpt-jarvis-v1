@@ -39,3 +39,7 @@ speech of Fictional AI character-J.A.R.V.I.S
 - Fine-tune on curated Marvel-style conversations
 
 ---
+
+Resources
+
+This project is a personal implementation of a mini transformer-based language model. It draws inspiration from educational material provided by Karpathy and builds on the core ideas introduced in the original Transformer architecture.
